@@ -1,0 +1,24 @@
+.container {
+    position: fixed;
+    bottom : 10 ;
+    width: 95%;
+    height: 10vh;
+
+    display: flex;
+    flex-direction: row;
+    background-color: #FBE8F8;
+    border : 1px solid ;
+    border-radius: 20px ;
+    box-shadow: 6px 6px 4px 0px rgba(0, 0, 0, 0.2);
+    justify-content: space-between;
+    gap : 30px;
+    align-items: center;
+    padding: 0 20px ;
+    
+
+}
+.icon {
+    font-size: 15px ;
+    color: #a64ca6 ;
+    text-align: center;
+}
